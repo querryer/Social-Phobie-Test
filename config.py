@@ -1,1 +1,1 @@
-TOKEN = "7672231021:AAEGCED5ymaIKNDenyukKs9fvTjldi6pGYQ"
+TOKEN = "ЗДЕСЬ ДОЛЖЕН БЫТЬ ВАШ ТОКЕН ДЛЯ БОТА ТЕЛЕГРАММ"
